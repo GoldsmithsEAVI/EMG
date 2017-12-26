@@ -1,0 +1,26 @@
+{
+	"boxes" : [ 		{
+			"box" : 			{
+				"maxclass" : "newobj",
+				"text" : "o.route /0/bitalino /0/raw",
+				"style" : "",
+				"numoutlets" : 3,
+				"patching_rect" : [ 668.0, 41.0, 139.0, 22.0 ],
+				"outlettype" : [ "", "", "FullPacket" ],
+				"presentation" : 1,
+				"id" : "obj-70",
+				"numinlets" : 1,
+				"presentation_rect" : [ 121.0, 60.0, 139.0, 22.0 ]
+			}
+
+		}
+ ],
+	"appversion" : 	{
+		"major" : 7,
+		"minor" : 3,
+		"revision" : 4,
+		"architecture" : "x64",
+		"modernui" : 1
+	}
+
+}
